@@ -3,7 +3,7 @@ import clsx from 'clsx';
 
 const FriendListItem = ({ avatar, name, isOnline }) => {
   return (
-    <div className={styles.friendItem}>
+    <div className={styles.cardWrapper}>
       <img className={styles.avatar} src={avatar} alt="Avatar" width="48" />
       <p className={styles.username}>{name}</p>
       <p
