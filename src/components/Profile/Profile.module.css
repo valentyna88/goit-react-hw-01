@@ -1,12 +1,6 @@
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-}
-
 .profile {
   width: 320px;
+  margin: 50px auto;
   border: 2px solid #293133;
   border-radius: 10px;
   overflow: hidden;

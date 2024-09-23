@@ -16,6 +16,7 @@
 .td {
   padding: 4px 8px;
   border: 1px solid black;
+  text-transform: capitalize;
 }
 
 .tr {
